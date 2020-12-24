@@ -1,3 +1,4 @@
+//Its showing an error that hour is a function. how do i fix this ?
 var hourss,mins,secs;
 
 function setup() {
